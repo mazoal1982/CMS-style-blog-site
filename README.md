@@ -9,6 +9,8 @@ CMS Blog Repo
 
 
 ## Description
+Check it out yourself here: https://safe-crag-04476-ebe5c2c0fe56.herokuapp.com/profile
+
 Write middleware functions for Express.js.
 Use middleware to restrict access to certain routes.
 Organize a codebase following the MVC paradigm.
