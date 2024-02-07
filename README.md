@@ -16,6 +16,9 @@ Create templates with Handlebars.js to reduce the amount of front-end JavaScript
 Implement built-in and custom helpers in Handlebars.js to help with formatting.
 Store and use data saved on a back-end session.
 
+<img width="678" alt="image" src="https://github.com/mazoal1982/CMS-style-blog-site/assets/91248776/ef55db2e-dff9-4b66-ab92-17cf5d7600b4">
+
+
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
